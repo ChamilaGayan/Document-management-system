@@ -1,0 +1,88 @@
+h1{
+	text-align:center;
+	
+}
+.divstyle{
+	background-color:#f2f2f2 ;
+	margin-left:auto;
+	margin-right:auto;
+	width: 500px;
+	
+}
+
+label{
+	font-size:18px;
+	font-family:sans-sefif;
+	margin-left:20px;
+	margin-top:20px;
+}
+input[type='text'],input[type='email']{
+	width:200px;
+	margin-left:20px;
+	border-radius: 4px;
+	padding: 7px;
+	
+}
+#oneLine{
+	width:442px;
+	margin-left:20px;
+	border-radius: 4px;
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+#line2{
+	width:200px;
+	margin-left:20px;
+	border-radius: 4px;
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+
+
+input[type='radio']{
+	margin-left:20px
+	
+}
+input[type='tel']{
+	margin-left:20px;
+	width:400px;
+	border-radius: 4px;
+}
+input[type='date']{
+	width:130px;
+	margin-left:20px;
+	border-radius: 4px;
+	padding: 7px;
+	
+}
+input[type='password'],[type='tel']{
+	width:250px;
+	margin-left:20px;
+	border-radius: 4px;
+	padding: 7px;
+	
+}
+input[type='checkbox']{
+	border-radius: 4px;
+	margin-left:20px;
+	
+}
+input[type='submit'] {
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding: 10px;
+  
+}
+.skip{
+	color:white;
+	background-color:red;
+	border: none;
+	border-radius: 8px;
+	width: 150px;
+}
+
+
+
+
